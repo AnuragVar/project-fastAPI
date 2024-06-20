@@ -1,0 +1,9 @@
+fastapi==0.78.0
+uvicorn==0.17.6
+PyPDF2
+cassio
+datasets
+langchain
+openai
+tiktoken
+langchain_community
